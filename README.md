@@ -6,7 +6,7 @@
 
 Atualmente trabalhando como desenvolvedor Full-Stack na **Accenture**.<br/>
 Estudante de Engenharia de Computação no **Instituto Federal da Paraíba (IFPB)**.<br/>
-Conhecimento em **React Native**, **React Js**, **WireMock**, **NestJS** e **Flutter**.<br/>
+Habilidades com **React Native**, **React Js**, **WireMock**, **NestJS** e **Flutter**.<br/>
 
 </p>
 <hr>
