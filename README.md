@@ -4,9 +4,9 @@
 
 <p>
 
-Atualmente trabalhando como desenvolvedor Full-Stack na **Accenture**.
+Atualmente trabalhando como desenvolvedor Full-Stack na **Capyba**.
 Estudante de Engenharia de Computação no **Instituto Federal da Paraíba (IFPB)**.
-Habilidades com **React Native**, **React Js**, **WireMock**, **NestJS** e **Flutter**.<br/>
+Habilidades com **React Native**, **React Js**, **WireMock**, **NestJS**, **Angular** e **Flutter**.<br/>
 
 </p>
 <hr>
