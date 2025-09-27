@@ -15,7 +15,7 @@ Tenho experiência com: **Django**, **Supabase**, **Spring Boot**, **Node.js**, 
   <a href="mailto:antoniogabriel.jrf@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&amp;logo=gmail&amp;logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/devgabriel-araujo/" alt="LinkedIn" rel="nofollow">
+  <a href="https://www.linkedin.com/in/devgabriel-araujo/" alt="LinkedIn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" />
   </a>
 </p>
